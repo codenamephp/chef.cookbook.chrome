@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/codenamephp/chef.cookbook.chrome/tree/HEAD)
+
+[Full Changelog](https://github.com/codenamephp/chef.cookbook.chrome/compare/1.0.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump bobheadxi/deployments from 0.6.0 to 0.6.1 [\#3](https://github.com/codenamephp/chef.cookbook.chrome/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [1.0.0](https://github.com/codenamephp/chef.cookbook.chrome/tree/1.0.0) (2021-07-17)
 
 [Full Changelog](https://github.com/codenamephp/chef.cookbook.chrome/compare/144e676d8599b4e9e1bc371cf619135ba9db5e9a...1.0.0)
