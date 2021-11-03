@@ -1,8 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/codenamephp/chef.cookbook.chrome/tree/HEAD)
+## [1.1.0](https://github.com/codenamephp/chef.cookbook.chrome/tree/1.1.0) (2021-11-03)
 
-[Full Changelog](https://github.com/codenamephp/chef.cookbook.chrome/compare/1.0.0...HEAD)
+[Full Changelog](https://github.com/codenamephp/chef.cookbook.chrome/compare/1.0.0...1.1.0)
+
+**Implemented enhancements:**
+
+- Update repo url to https [\#4](https://github.com/codenamephp/chef.cookbook.chrome/pull/4) ([bastianschwarz](https://github.com/bastianschwarz))
 
 **Merged pull requests:**
 
