@@ -20,7 +20,7 @@ Adds the repository to apt so google chrome can be installed as package.
 - `remove`: Removes the repository (not the package)
 #### Properties
 - `repo_name`: The name of the repository (file) that will be created, defaults to google-chrome
-- `uri`: The uri to the repository, defaults to 'http://dl.google.com/linux/chrome/deb/'
+- `uri`: The uri to the repository, defaults to 'https://dl.google.com/linux/chrome/deb/'
 - `arch`: The architectures supported by the repository, defaults to 'amd64'
 - `distribution`: The distribution of the repository, defaults to 'stable'
 - `components`: Teh components supported by the repository, defaults to ['main']
