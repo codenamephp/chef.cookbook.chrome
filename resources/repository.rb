@@ -1,7 +1,7 @@
 unified_mode true
 
 property :repo_name, String, default: 'google-chrome', description: 'The name of the repository and the file the source will be placed in'
-property :uri, String, default: 'http://dl.google.com/linux/chrome/deb/', description: 'The uri to the repository'
+property :uri, String, default: 'https://dl.google.com/linux/chrome/deb/', description: 'The uri to the repository'
 property :arch, String, default: 'amd64', description: 'The architecture(s) that are supported by the repository'
 property :distribution, String, default: 'stable', description: 'The distribution of the repository'
 property :components, Array, default: ['main'], description: 'The components this repository supports'
