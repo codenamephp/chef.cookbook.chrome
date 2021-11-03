@@ -19,7 +19,7 @@ describe 'codenamephp_chrome_repository' do
     it 'adds chrome repository to apt' do
       expect(chef_run).to add_apt_repository('Add Google Chrome repository').with(
         repo_name: 'google-chrome',
-        uri: 'http://dl.google.com/linux/chrome/deb/',
+        uri: 'https://dl.google.com/linux/chrome/deb/',
         arch: 'amd64',
         distribution: 'stable',
         components: ['main'],
