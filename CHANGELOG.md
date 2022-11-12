@@ -1,11 +1,12 @@
 # Changelog
 
-## [1.1.1](https://github.com/codenamephp/chef.cookbook.chrome/tree/1.1.1) (2021-12-28)
+## [1.1.1](https://github.com/codenamephp/chef.cookbook.chrome/tree/1.1.1) (2022-11-12)
 
 [Full Changelog](https://github.com/codenamephp/chef.cookbook.chrome/compare/1.1.0...1.1.1)
 
 **Merged pull requests:**
 
+- Updated workflows to main version of chef workflows [\#20](https://github.com/codenamephp/chef.cookbook.chrome/pull/20) ([bastianschwarz](https://github.com/bastianschwarz))
 - Bump bobheadxi/deployments from 0.6.1 to 0.6.2 [\#8](https://github.com/codenamephp/chef.cookbook.chrome/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump tubone24/update\_release from 1.2.0 to 1.3.1 [\#7](https://github.com/codenamephp/chef.cookbook.chrome/pull/7) ([dependabot[bot]](https://github.com/apps/dependabot))
 
